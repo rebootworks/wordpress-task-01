@@ -1,5 +1,5 @@
 # Wordpress Task 01
-This is a simple but meaningful task to understand a developer's WordPress skills.
+This is a challenging but meaningful task to understand a developer's WordPress skills.
 
 ## Task
 Develop the missing parts of the plugin named "Easy Visual Composer Components (EVCC)" with good writing of code.
