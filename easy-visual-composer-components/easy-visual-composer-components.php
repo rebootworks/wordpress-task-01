@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Easy Visual Composer Components
- * Description: Make
+ * Description: Makes component creations easy.
  * Version:     1.0.0
  * Author:      Reboot
  * Author URI:  https://reboot.com.tr

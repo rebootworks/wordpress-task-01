@@ -9,16 +9,16 @@ if (!defined('ABSPATH')) {
  * Include Helper
  */
 
-require EVCC_CORE_PATH . 'functions/evcc_include_folder.php';
+require EVCC_PATH . 'functions/evcc_include_folder.php';
 
 
 /**
  * Include functions
  */
-reboot_include_folder(EVCC_CORE_PATH . 'functions');
+evcc_include_folder(EVCC_PATH . 'functions');
 
 
 /**
  * Include hooks and models
  */
-reboot_include_folder(EVCC_CORE_PATH . 'classes');
+evcc_include_folder(EVCC_PATH . 'classes');
