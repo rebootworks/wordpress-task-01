@@ -20,7 +20,7 @@ Please complete following missions.
 ## Extra Missions
 If you are someone who loves challenges you can also complete these missions too and we will add a plus to your score :)
 
-- [ ] Make others plugins (or themes) can use your mechanism to create shortcodes and VC components with WordPress filters which means they only should be create a shortcode folder contains its shortcodes like ours.
+- [ ] Make others plugins (or themes) can use your mechanism to create shortcodes and VC components with WordPress filters which means they only should be create a shortcodes folder contains its shortcodes like ours.
 - [ ] Add a plugin settings page under the settings menu for Editor and Administrator level users.
 - [ ] Make EVCC_AGENCY value changeable via the settings page.
 - [ ] Make the settings page secure and looks cool.
