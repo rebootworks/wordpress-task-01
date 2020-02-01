@@ -6,8 +6,7 @@ This is not a business that can turn into money in any way, it is a small challe
 ## Warnings
 
 - Please do not share your code in public. Because someone could cheat with using your code or approach.
-- Send your finished plugin to omur@reboot.com.tr
-- Send your online test app with login credentials to omur@reboot.com.tr
+- Send your finished plugin and your online test app with login credentials to omur@reboot.com.tr
 - If you don't have the [WPBakery Page Builder for WordPress](https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431) plugin or a theme bundled with it then send a mail to omur@reboot.com.tr and I'll send it to you.
 
 ## Awards
