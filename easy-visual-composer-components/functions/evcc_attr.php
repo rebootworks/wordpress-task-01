@@ -2,6 +2,13 @@
 
 if (!function_exists('evcc_attr')) {
 
+    /**
+     * Prints attributes with or without key with a space at left.
+     *
+     * @param $key
+     * @param string $value
+     * @return string
+     */
     function evcc_attr($key, $value = '')
     {
         if(empty($key)) {
