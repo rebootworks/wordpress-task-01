@@ -22,7 +22,7 @@ We add some codes to scaffold the project but there is no head. You need to add 
 ## Required Missions
 Please complete following missions.
 
-- [ ] Make the folders inside the shortcodes folder works as regular WordPress shortcodes. Now there is one [evcc_buttons] but the number will be increased soon :)
+- [ ] Make the folders inside the shortcodes folder works as regular WordPress shortcodes. Now there is one [evcc_buttons] but the number could be increased, that is the point :)
 - [ ] Represent the evcc_buttons shortcode with creating a page contains possible using variations of the shortcode.
 - [ ] Make the evcc_buttons shortcode available as a Visual Composer Component.
 - [ ] Represent the evcc_buttons Visual Composer component with creating a page contains possible using variations of the component.
