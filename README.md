@@ -1,7 +1,14 @@
 # Wordpress Task 01
 This is a challenging but meaningful task to understand a developer's WordPress skills.
 
-If you get stuck somewhere, feel free to ask us. We believe in the power of learning. You don't have to know everything, but you should know how to learn and get help.
+This is not a business that can turn into money in any way, it is a small challenge. We have our own codes that perform the same function. We aim to understand your perspective, problem solving and coding skills and communication skills a little better with this task. I hope it will be a pleasant work for you :)
+
+## Warnings
+
+- Please do not share your code in public. Because someone could cheat with using your code or approach.
+- Send your finished plugin to omur@reboot.com.tr
+- If it suits you send your online test app with login credentials to omur@reboot.com.tr
+- If you prefer we will add your name to 
 
 ## Task
 Develop the missing parts of the plugin named "Easy Visual Composer Components (EVCC)" with good writing of code.
@@ -35,3 +42,7 @@ If you are someone who loves challenges you can also complete these missions too
 - PHP: Always use English naming for code.
 - PHP: Always use English text for messages and make them translatable.
 - HTML/CSS: Use [InuitCSS](https://github.com/inuitcss/inuitcss) approach. See: [More Transparent UI Code with Namespaces](https://csswizardry.com/2015/03/more-transparent-ui-code-with-namespaces/#the-namespaces).
+
+## Leaderboard
+
+No one finished yet :)
