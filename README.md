@@ -8,7 +8,11 @@ This is not a business that can turn into money in any way, it is a small challe
 - Please do not share your code in public. Because someone could cheat with using your code or approach.
 - Send your finished plugin to omur@reboot.com.tr
 - If it suits you send your online test app with login credentials to omur@reboot.com.tr
-- If you prefer we will add your name to 
+
+## Awards
+
+- You will have fun while completing this task :)
+- If you prefer we will add your name to the Leaderboard.
 
 ## Task
 Develop the missing parts of the plugin named "Easy Visual Composer Components (EVCC)" with good writing of code.
